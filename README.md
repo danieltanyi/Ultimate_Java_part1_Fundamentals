@@ -37,4 +37,8 @@ I have created a branch call control_flow to solve the input validation problem
 # 3. Clean coding
 I have created a branch call clean_coding to refactor the control_flow branch to make it more cleaner 
 # 4. Finding and fixing errors
+* Types of errors
+* Common errors
+* Debugging
+* Packaging
 # 5. Packaging your applications
