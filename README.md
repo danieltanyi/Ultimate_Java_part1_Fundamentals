@@ -41,4 +41,19 @@ I have created a branch call clean_coding to refactor the control_flow branch to
 * Common errors
 * Debugging
 * Packaging
-# 5. Packaging your applications
+# Programming Paradigms
+* Procedural
+* Funtional (Important!)
+* Object-Oriented (I used this paradigm to improved on my Mortgage calculator project)(Important!)
+* Event-driven
+* Logic
+* Aspect-oriented
+# Benefits of Object-oriented Programming
+* Reduced Complexity
+* Easier Maintenance
+* Code Resuse
+* Faster Development
+# Classes and Objects
+* Class: A blueprint for creating objects
+* Object: An instance of a class
+
