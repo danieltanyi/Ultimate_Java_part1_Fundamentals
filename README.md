@@ -45,6 +45,7 @@ I have created a branch call clean_coding to refactor the control_flow branch to
 * Procedural
 * Funtional (Important!)
 * Object-Oriented (I used this paradigm to improved on my Mortgage calculator project)(Important!)
+ is a methodology or a paradigm to design a program using classes and objects.
 * Event-driven
 * Logic
 * Aspect-oriented
@@ -56,4 +57,16 @@ I have created a branch call clean_coding to refactor the control_flow branch to
 # Classes and Objects
 * Class: A blueprint for creating objects
 * Object: An instance of a class
+# Principles of Object Oriented Programming
+* Encapsulation : Binding and wrapping a code and data into a single unit.
+* Abstraction : Hiding internal details and showing functionalities.
+* Coupling : The level of dependency between classes.
+* Inheritance: When one object acquires the behaviors and properties of the parent object. it provides code re-usability,extensibility.
+* Polymorphism : when one task is perform in different ways. for ex. in Java we use method overloading and method overriding
+# Refactoring Towards an Object-oriented Design (Mortgage Calculator project)
+I have created a branch call refactor_mortgage to refactor the clean_coding branch to make it more Object-oriented
+
+
+
+
 
