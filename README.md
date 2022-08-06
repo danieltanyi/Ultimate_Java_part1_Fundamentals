@@ -41,11 +41,12 @@ I have created a branch call clean_coding to refactor the control_flow branch to
 * Common errors
 * Debugging
 * Packaging
-# Programming Paradigms
+# Ultimate Java Part2: Object-oriented Programming
+OOP (Object-oriented Programing) is a methodology or a paradigm to design a program using classes and objects.
+(I used this paradigm to improved on my Mortgage calculator project)(Important!)
+# Others Programming Paradigms
 * Procedural
 * Funtional (Important!)
-* Object-Oriented (I used this paradigm to improved on my Mortgage calculator project)(Important!)
- is a methodology or a paradigm to design a program using classes and objects.
 * Event-driven
 * Logic
 * Aspect-oriented
